@@ -105,7 +105,7 @@ const textElements = document.querySelectorAll(".animate-item");
     ease: "power2.out",
     scrollTrigger: {
       trigger: footer,
-      start: "top 90%",  
+      start: "top 95%",  
       markers: false,  
     },
   });
